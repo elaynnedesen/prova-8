@@ -39,3 +39,4 @@ console.log("Notas com nova nota:", novasNotas);
 // Usando o método
 console.log("Média das notas:", aluno.calcularMedia());
 ```
+
