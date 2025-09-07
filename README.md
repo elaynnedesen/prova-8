@@ -11,7 +11,7 @@ Também foi demonstrado:
 - Como acessar o nome do aluno usando desestruturação
 - Como adicionar uma nova nota ao array original usando o spread operator
 
-## O que são objetos literais?
+## O que são Objetos Literais?
 
 Objetos literais em JavaScript são estruturas que permitem agrupar dados e comportamentos relacionados em uma única variável, usando a sintaxe de chave e valor. Eles são muito utilizados para representar entidades do mundo real, como pessoas, produtos, etc.
 
@@ -39,4 +39,5 @@ console.log("Notas com nova nota:", novasNotas);
 // Usando o método
 console.log("Média das notas:", aluno.calcularMedia());
 ```
+
 
